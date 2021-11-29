@@ -24,4 +24,4 @@ add your plotly credentials in below file
 .plotly/.credentials
 ```
 
-Gather your SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET from developers.spotify.com and replace them in source file at given fields.
+Gather your SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET for web API from [developers.spotify.com](https://developer.spotify.com/) and replace them in source file at given fields.
